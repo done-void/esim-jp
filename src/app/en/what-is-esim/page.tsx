@@ -1,7 +1,7 @@
 export const metadata = {
   title: "What is an eSIM? The Ultimate Guide for Travelers to Japan",
   description:
-    "Learn what an eSIM is, how it works in Japan, and why it's the best option for tourists. Choose from affordable data plans and stay connected instantly.",
+    "Learn what an eSIM is, how it works in Japan, and why it&#39;s the best option for tourists. Choose from affordable data plans and stay connected instantly.",
 };
 
 export default function Page() {
@@ -44,7 +44,7 @@ export default function Page() {
           Best eSIM Options for Japan
         </h2>
         <p>
-          If you’re planning a trip to Japan in 2025, here are some recommended
+          If you&#39;re planning a trip to Japan in 2025, here are some recommended
           eSIM data plans:
         </p>
         <ul className="list-disc ml-6 mt-2">
@@ -71,7 +71,7 @@ export default function Page() {
           <li>Make sure your phone supports eSIM</li>
           <li>Purchase a plan</li>
           <li>Scan the QR code or follow the installation guide</li>
-          <li>Connect to Japan's local networks immediately</li>
+          <li>Connect to Japan&#39;s local networks immediately</li>
         </ol>
       </section>
 
