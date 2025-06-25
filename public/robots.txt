@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://esim-jp.vercel.app
+
+# Sitemaps
+Sitemap: https://esim-jp.vercel.app/sitemap.xml
