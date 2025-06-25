@@ -1,0 +1,24 @@
+[
+  {
+    "name": "日本 eSIM 3GB / 7日",
+    "gb": 3,
+    "days": 7,
+    "price": 1200,
+    "link": "https://example.com/your-affiliate-link-1"
+  },
+  {
+    "name": "日本 eSIM 5GB / 15日",
+    "gb": 5,
+    "days": 15,
+    "price": 1800,
+    "link": "https://example.com/your-affiliate-link-2"
+  },
+  {
+    "name": "日本 eSIM 10GB / 30日",
+    "gb": 10,
+    "days": 30,
+    "price": 2800,
+    "link": "https://example.com/your-affiliate-link-3"
+  }
+]
+
