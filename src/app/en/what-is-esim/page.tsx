@@ -85,3 +85,13 @@ export default function Page() {
     </main>
   );
 }
+
+export const generateMetadata = () => ({
+  alternates: {
+    canonical: "https://esim-jp.vercel.app/en/what-is-esim",
+    languages: {
+      "en": "https://esim-jp.vercel.app/en/what-is-esim",
+      "ja": "https://esim-jp.vercel.app/blog/what-is-esim",
+    },
+  },
+});
