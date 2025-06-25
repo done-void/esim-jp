@@ -15,7 +15,12 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
   title: "日本旅行 eSIM ストア",
-  description: "日本旅行に便利なeSIMを簡単に購入できるストアです。Airalo公式アフィリエイト対応。",
+  description:
+    "日本旅行に便利なeSIMを簡単に購入できるストアです。Airalo公式アフィリエイト対応。",
+  metadataBase: new URL("https://esim-jp.vercel.app"),
+  other: {
+    "google-site-verification": "wGmjB8Wr-mgcIS3OxrCpXTEUP0xce1EH7dXogTKJOoU", // ← ここがSearch Console用
+  },
 };
 
 export default function RootLayout({
